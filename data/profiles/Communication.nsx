@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<nhSettings>
+<Settings>
+
+<kNhSet_BassBoostState Value="1" />
+<kNhSet_BassBoostGainDB Value="2" />
+
+<kNhSet_TrebleBoostState Value="1" />
+<kNhSet_TrebleBoostGainDB Value="4" />
+
+<kNhSet_HpVirtualSurroundState Value="0" />
+<kNhSet_SpkVirtualSurroundState Value="0" />
+<kNhSet_StereoWideningState Value="0" />
+<kNhSet_UpmixState Value="0" />
+
+<kNhSet_ReverbState Value="0" />
+<kNhSet_ReverbFilterId Value="0" />
+<kNhSet_ReverbGainDB Value="-10.0" />
+
+<kNhSet_ClarityState Value="1" />
+<kNhSet_ClarityVoiceGainDB Value="8" />
+
+<kNhSet_EQState Value="1"/>
+
+<kNhSet_CompressorState Value="1" />
+<kNhSet_CompressorFreq0 Value="200"/>
+<kNhSet_Compressor1ReleaseSec Value="0.15"/>
+<kNhSet_Compressor1ThresholdDB Value="-36.0"/>
+<kNhSet_Compressor1ReferenceDB Value="-12.0"/>
+<kNhSet_Compressor1Rate Value="0.5"/>
+<kNhSet_Compressor2ReleaseSec Value="0.05"/>
+<kNhSet_Compressor2ThresholdDB Value="-36.0"/>
+<kNhSet_Compressor2ReferenceDB Value="-12.0"/>
+<kNhSet_Compressor2Rate Value="0.5"/>
+<kNhSet_CompressorLevel Value="1"/>
+
+</Settings>
+
+	<Data>
+		<ID>
+			<Value>{77f18420-d6b9-11e7-8f1a-0800200c9a66}</Value>
+		</ID>
+	</Data>
+</nhSettings>
+ 
